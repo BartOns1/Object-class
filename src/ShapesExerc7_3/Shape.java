@@ -4,8 +4,8 @@ package ShapesExerc7_3;
  * Created by vdabcursist on 19/06/2017.
  */
 public class Shape {
-    String color = "red";
-    boolean filled = true;
+    private String color = "red";
+    private boolean filled = true;
 
 
     public Shape(String color, boolean filled){
