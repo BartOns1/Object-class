@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b37668-7ae2-4898-a753-b62b3ba64e30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/CollectionMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/be/vdab/bees/Exceptionhandling/PrintInteger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Object_Class/ShapesExerc7_3/Shape.class" afterPath="$PROJECT_DIR$/out/production/Object_Class/ShapesExerc7_3/Shape.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -121,8 +117,8 @@
       <file leaf-file-name="CollectionMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Generics/CollectionMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            <state relative-caret-position="340">
+              <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -200,8 +196,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="783" />
-    <option name="y" value="138" />
+    <option name="x" value="617" />
+    <option name="y" value="104" />
     <option name="width" value="1611" />
     <option name="height" value="1078" />
   </component>
@@ -695,10 +691,18 @@
       <option name="presentableId" value="Default" />
       <updated>1497513677386</updated>
     </task>
+    <task id="LOCAL-00001" summary="lesvoorbeelden">
+      <created>1498459381695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498459381695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="783" y="138" width="1611" height="1078" extended-state="0" />
+    <frame x="617" y="104" width="1611" height="1078" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -763,6 +767,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesvoorbeelden" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesvoorbeelden" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1182,8 +1190,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Generics/CollectionMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="340">
+          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
           <folding />
         </state>
       </provider>
