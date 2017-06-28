@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b37668-7ae2-4898-a753-b62b3ba64e30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollectorExercises13/CountIntegersInCue.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Object_Class/ShapesExerc7_3/Shape.class" afterPath="$PROJECT_DIR$/out/production/Object_Class/ShapesExerc7_3/Shape.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -918,7 +916,7 @@
       <workItem from="1498115784973" duration="13898000" />
       <workItem from="1498239457301" duration="17873000" />
       <workItem from="1498429984917" duration="190000" />
-      <workItem from="1498590261598" duration="4936000" />
+      <workItem from="1498590261598" duration="4976000" />
     </task>
     <task id="LOCAL-00001" summary="Exercise 9">
       <created>1498117406553</created>
@@ -955,11 +953,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498430097214</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="shapes">
+      <created>1498627806906</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1498627806906</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43454000" />
+    <option name="totallyTimeSpent" value="43494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
